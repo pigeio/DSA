@@ -1,43 +1,26 @@
 class Solution {
 public:
     void setZeroes(vector<vector<int>>& matrix) {
-        int m = matrix.size();
-        int n = matrix[0].size();
+        int n = matrix.size();
+        int m = matrix[0].size();
 
-        bool firstRow = false, firstCol = false;
+        vector<int>row(n,0);
+        vector<int>col(m,0); //(size , default value  = zero)
 
-        for(int i=0;i<m;i++){
-            for(int j=0;j<n;j++){
+        for(int i = 0; i<n; i++){
+            for(int j = 0 ; j<m;j++){
                 if(matrix[i][j] == 0){
-                    matrix[i][0] = 0;
-                    matrix[0][j] = 0;
-
-                    if(i==0) firstRow = true;
-                    if(j==0) firstCol = true;
+                    row[i] = 1;
+                    col[j] = 1;
                 }
-
             }
         }
 
-        //set inner matrix to zero
-        for(int i=1;i<m;i++){
-            for(int j=1;j<n;j++){
-                if(matrix[i][0] == 0 || matrix[0][j] == 0 ){
+        for(int i = 0;i<n;i++){
+            for(int j = 0;j<m;j++){
+                if(row[i] == 1 || col[j] == 1){
                     matrix[i][j] = 0;
                 }
-            }
-        }
-
-        //convert firstRow and firstCol to zero
-        if(firstRow){
-            for(int j=0;j<n;j++){
-                matrix[0][j] = 0;
-            }
-        }
-
-        if(firstCol){
-            for(int i=0;i<m;i++){
-                matrix[i][0] = 0;
             }
         }
     }
