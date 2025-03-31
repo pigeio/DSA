@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/pigeio/DSA/tree/master/0099-recover-binary-search-tree) |
+| [0207-course-schedule](https://github.com/pigeio/DSA/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/pigeio/DSA/tree/master/0547-number-of-provinces) |
 ## Binary Search Tree
 |  |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/pigeio/DSA/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/pigeio/DSA/tree/master/0547-number-of-provinces) |
 ## Union Find
 |  |
@@ -69,5 +71,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/pigeio/DSA/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/pigeio/DSA/tree/master/0547-number-of-provinces) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/pigeio/DSA/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
