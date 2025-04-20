@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/pigeio/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/pigeio/DSA/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/pigeio/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0322-coin-change](https://github.com/pigeio/DSA/tree/master/0322-coin-change) |
 | [0540-single-element-in-a-sorted-array](https://github.com/pigeio/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0907-koko-eating-bananas](https://github.com/pigeio/DSA/tree/master/0907-koko-eating-bananas) |
 | [1032-satisfiability-of-equality-equations](https://github.com/pigeio/DSA/tree/master/1032-satisfiability-of-equality-equations) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/pigeio/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/pigeio/DSA/tree/master/0210-course-schedule-ii) |
+| [0322-coin-change](https://github.com/pigeio/DSA/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/pigeio/DSA/tree/master/0547-number-of-provinces) |
 | [0744-network-delay-time](https://github.com/pigeio/DSA/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/pigeio/DSA/tree/master/0801-is-graph-bipartite) |
@@ -128,4 +130,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1706-min-cost-to-connect-all-points](https://github.com/pigeio/DSA/tree/master/1706-min-cost-to-connect-all-points) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/pigeio/DSA/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
