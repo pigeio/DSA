@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1442-number-of-operations-to-make-network-connected](https://github.com/pigeio/DSA/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1753-path-with-minimum-effort](https://github.com/pigeio/DSA/tree/master/1753-path-with-minimum-effort) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/pigeio/DSA/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
+| [2793-count-the-number-of-complete-components](https://github.com/pigeio/DSA/tree/master/2793-count-the-number-of-complete-components) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1442-number-of-operations-to-make-network-connected](https://github.com/pigeio/DSA/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1753-path-with-minimum-effort](https://github.com/pigeio/DSA/tree/master/1753-path-with-minimum-effort) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/pigeio/DSA/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
+| [2793-count-the-number-of-complete-components](https://github.com/pigeio/DSA/tree/master/2793-count-the-number-of-complete-components) |
 ## Union Find
 |  |
 | ------- |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1706-min-cost-to-connect-all-points](https://github.com/pigeio/DSA/tree/master/1706-min-cost-to-connect-all-points) |
 | [1753-path-with-minimum-effort](https://github.com/pigeio/DSA/tree/master/1753-path-with-minimum-effort) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/pigeio/DSA/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
+| [2793-count-the-number-of-complete-components](https://github.com/pigeio/DSA/tree/master/2793-count-the-number-of-complete-components) |
 ## Graph
 |  |
 | ------- |
@@ -108,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1442-number-of-operations-to-make-network-connected](https://github.com/pigeio/DSA/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1706-min-cost-to-connect-all-points](https://github.com/pigeio/DSA/tree/master/1706-min-cost-to-connect-all-points) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/pigeio/DSA/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
+| [2793-count-the-number-of-complete-components](https://github.com/pigeio/DSA/tree/master/2793-count-the-number-of-complete-components) |
 ## Topological Sort
 |  |
 | ------- |
