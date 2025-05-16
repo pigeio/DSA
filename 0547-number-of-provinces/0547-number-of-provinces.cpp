@@ -1,6 +1,7 @@
 class Solution {
 public:
-    int n ;
+    int n ; //global n declared
+
     void DFS(vector<vector<int>>& isConnected , int u , vector<bool> &visited){
         visited[u] = true;
 
@@ -11,7 +12,7 @@ public:
         }
     }
     int findCircleNum(vector<vector<int>>& isConnected) {
-        n = isConnected.size();
+        n = isConnected.size(); //initialize the global n here
 
         vector<bool>visited(n,false);
         int count = 0;
