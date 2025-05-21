@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/pigeio/DSA/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/pigeio/DSA/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/pigeio/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/pigeio/DSA/tree/master/0210-course-schedule-ii) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/pigeio/DSA/tree/master/0127-word-ladder) |
 | [1032-satisfiability-of-equality-equations](https://github.com/pigeio/DSA/tree/master/1032-satisfiability-of-equality-equations) |
 ## Heap (Priority Queue)
 |  |
@@ -168,4 +170,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0908-middle-of-the-linked-list](https://github.com/pigeio/DSA/tree/master/0908-middle-of-the-linked-list) |
+## Hash Table
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/pigeio/DSA/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
