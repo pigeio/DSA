@@ -221,11 +221,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/pigeio/DSA/tree/master/0025-reverse-nodes-in-k-group) |
+| [0050-powx-n](https://github.com/pigeio/DSA/tree/master/0050-powx-n) |
 | [0234-palindrome-linked-list](https://github.com/pigeio/DSA/tree/master/0234-palindrome-linked-list) |
 | [1013-fibonacci-number](https://github.com/pigeio/DSA/tree/master/1013-fibonacci-number) |
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/pigeio/DSA/tree/master/0050-powx-n) |
 | [0445-add-two-numbers-ii](https://github.com/pigeio/DSA/tree/master/0445-add-two-numbers-ii) |
 | [1013-fibonacci-number](https://github.com/pigeio/DSA/tree/master/1013-fibonacci-number) |
 ## Memoization
