@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/pigeio/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/pigeio/DSA/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/pigeio/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0260-single-number-iii](https://github.com/pigeio/DSA/tree/master/0260-single-number-iii) |
 | [0322-coin-change](https://github.com/pigeio/DSA/tree/master/0322-coin-change) |
 | [0540-single-element-in-a-sorted-array](https://github.com/pigeio/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/pigeio/DSA/tree/master/0542-01-matrix) |
@@ -249,4 +250,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/pigeio/DSA/tree/master/0137-single-number-ii) |
+| [0260-single-number-iii](https://github.com/pigeio/DSA/tree/master/0260-single-number-iii) |
 <!---LeetCode Topics End-->
