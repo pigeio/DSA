@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/pigeio/DSA/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/pigeio/DSA/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/pigeio/DSA/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/pigeio/DSA/tree/master/0234-palindrome-linked-list) |
 | [1013-fibonacci-number](https://github.com/pigeio/DSA/tree/master/1013-fibonacci-number) |
 | [2050-count-good-numbers](https://github.com/pigeio/DSA/tree/master/2050-count-good-numbers) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/pigeio/DSA/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/pigeio/DSA/tree/master/0231-power-of-two) |
 | [0445-add-two-numbers-ii](https://github.com/pigeio/DSA/tree/master/0445-add-two-numbers-ii) |
 | [1013-fibonacci-number](https://github.com/pigeio/DSA/tree/master/1013-fibonacci-number) |
 | [2050-count-good-numbers](https://github.com/pigeio/DSA/tree/master/2050-count-good-numbers) |
@@ -250,5 +252,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/pigeio/DSA/tree/master/0137-single-number-ii) |
+| [0231-power-of-two](https://github.com/pigeio/DSA/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/pigeio/DSA/tree/master/0260-single-number-iii) |
 <!---LeetCode Topics End-->
