@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/pigeio/DSA/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/pigeio/DSA/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/pigeio/DSA/tree/master/0231-power-of-two) |
 | [0445-add-two-numbers-ii](https://github.com/pigeio/DSA/tree/master/0445-add-two-numbers-ii) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/pigeio/DSA/tree/master/0029-divide-two-integers) |
 | [0137-single-number-ii](https://github.com/pigeio/DSA/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/pigeio/DSA/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/pigeio/DSA/tree/master/0260-single-number-iii) |
