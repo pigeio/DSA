@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/pigeio/DSA/tree/master/0020-valid-parentheses) |
 | [0127-word-ladder](https://github.com/pigeio/DSA/tree/master/0127-word-ladder) |
 | [1032-satisfiability-of-equality-equations](https://github.com/pigeio/DSA/tree/master/1032-satisfiability-of-equality-equations) |
 ## Heap (Priority Queue)
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/pigeio/DSA/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/pigeio/DSA/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/pigeio/DSA/tree/master/0445-add-two-numbers-ii) |
 ## Recursion
