@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/pigeio/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/pigeio/DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/pigeio/DSA/tree/master/0042-trapping-rain-water) |
 | [0074-search-a-2d-matrix](https://github.com/pigeio/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/pigeio/DSA/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/pigeio/DSA/tree/master/0136-single-number) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/pigeio/DSA/tree/master/0042-trapping-rain-water) |
 | [0322-coin-change](https://github.com/pigeio/DSA/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/pigeio/DSA/tree/master/0338-counting-bits) |
 | [0542-01-matrix](https://github.com/pigeio/DSA/tree/master/0542-01-matrix) |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/pigeio/DSA/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/pigeio/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/pigeio/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/pigeio/DSA/tree/master/0148-sort-list) |
@@ -225,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/pigeio/DSA/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/pigeio/DSA/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/pigeio/DSA/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/pigeio/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/pigeio/DSA/tree/master/0232-implement-queue-using-stacks) |
@@ -295,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/pigeio/DSA/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/pigeio/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/pigeio/DSA/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
