@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/pigeio/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/pigeio/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/pigeio/DSA/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/pigeio/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/pigeio/DSA/tree/master/0240-search-a-2d-matrix-ii) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/pigeio/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/pigeio/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/pigeio/DSA/tree/master/0239-sliding-window-maximum) |
 | [0744-network-delay-time](https://github.com/pigeio/DSA/tree/master/0744-network-delay-time) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/pigeio/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/pigeio/DSA/tree/master/0025-reverse-nodes-in-k-group) |
 | [0141-linked-list-cycle](https://github.com/pigeio/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/pigeio/DSA/tree/master/0142-linked-list-cycle-ii) |
@@ -306,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/pigeio/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/pigeio/DSA/tree/master/0148-sort-list) |
 ## Bit Manipulation
 |  |
