@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/pigeio/DSA/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1073-number-of-enclaves](https://github.com/pigeio/DSA/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/pigeio/DSA/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1256-rank-transform-of-an-array](https://github.com/pigeio/DSA/tree/master/1256-rank-transform-of-an-array) |
 | [1370-count-number-of-nice-subarrays](https://github.com/pigeio/DSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/pigeio/DSA/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/pigeio/DSA/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/pigeio/DSA/tree/master/0966-binary-subarrays-with-sum) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/pigeio/DSA/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1034-subarrays-with-k-different-integers](https://github.com/pigeio/DSA/tree/master/1034-subarrays-with-k-different-integers) |
+| [1256-rank-transform-of-an-array](https://github.com/pigeio/DSA/tree/master/1256-rank-transform-of-an-array) |
 | [1370-count-number-of-nice-subarrays](https://github.com/pigeio/DSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/pigeio/DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Stack
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0148-sort-list](https://github.com/pigeio/DSA/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/pigeio/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [1256-rank-transform-of-an-array](https://github.com/pigeio/DSA/tree/master/1256-rank-transform-of-an-array) |
 ## Merge Sort
 |  |
 | ------- |
