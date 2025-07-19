@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/pigeio/DSA/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/pigeio/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/pigeio/DSA/tree/master/0542-01-matrix) |
+| [0621-task-scheduler](https://github.com/pigeio/DSA/tree/master/0621-task-scheduler) |
 | [0733-flood-fill](https://github.com/pigeio/DSA/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/pigeio/DSA/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/pigeio/DSA/tree/master/0792-binary-search) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/pigeio/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/pigeio/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/pigeio/DSA/tree/master/0239-sliding-window-maximum) |
+| [0621-task-scheduler](https://github.com/pigeio/DSA/tree/master/0621-task-scheduler) |
 | [0744-network-delay-time](https://github.com/pigeio/DSA/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/pigeio/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1753-path-with-minimum-effort](https://github.com/pigeio/DSA/tree/master/1753-path-with-minimum-effort) |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/pigeio/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0424-longest-repeating-character-replacement](https://github.com/pigeio/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/pigeio/DSA/tree/master/0496-next-greater-element-i) |
+| [0621-task-scheduler](https://github.com/pigeio/DSA/tree/master/0621-task-scheduler) |
 | [0940-fruit-into-baskets](https://github.com/pigeio/DSA/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/pigeio/DSA/tree/master/0966-binary-subarrays-with-sum) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/pigeio/DSA/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -308,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0148-sort-list](https://github.com/pigeio/DSA/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/pigeio/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0621-task-scheduler](https://github.com/pigeio/DSA/tree/master/0621-task-scheduler) |
 | [1256-rank-transform-of-an-array](https://github.com/pigeio/DSA/tree/master/1256-rank-transform-of-an-array) |
 ## Merge Sort
 |  |
@@ -365,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/pigeio/DSA/tree/master/0402-remove-k-digits) |
+| [0621-task-scheduler](https://github.com/pigeio/DSA/tree/master/0621-task-scheduler) |
 ## Sliding Window
 |  |
 | ------- |
@@ -396,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/pigeio/DSA/tree/master/0621-task-scheduler) |
 | [1034-subarrays-with-k-different-integers](https://github.com/pigeio/DSA/tree/master/1034-subarrays-with-k-different-integers) |
 ## Quickselect
 |  |
