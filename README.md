@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/pigeio/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/pigeio/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/pigeio/DSA/tree/master/0239-sliding-window-maximum) |
+| [0295-find-median-from-data-stream](https://github.com/pigeio/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0355-design-twitter](https://github.com/pigeio/DSA/tree/master/0355-design-twitter) |
 | [0621-task-scheduler](https://github.com/pigeio/DSA/tree/master/0621-task-scheduler) |
 | [0744-network-delay-time](https://github.com/pigeio/DSA/tree/master/0744-network-delay-time) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/pigeio/DSA/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/pigeio/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/pigeio/DSA/tree/master/0234-palindrome-linked-list) |
+| [0295-find-median-from-data-stream](https://github.com/pigeio/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0908-middle-of-the-linked-list](https://github.com/pigeio/DSA/tree/master/0908-middle-of-the-linked-list) |
 ## Hash Table
 |  |
@@ -323,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0148-sort-list](https://github.com/pigeio/DSA/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/pigeio/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/pigeio/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0621-task-scheduler](https://github.com/pigeio/DSA/tree/master/0621-task-scheduler) |
 | [0876-hand-of-straights](https://github.com/pigeio/DSA/tree/master/0876-hand-of-straights) |
 | [1256-rank-transform-of-an-array](https://github.com/pigeio/DSA/tree/master/1256-rank-transform-of-an-array) |
@@ -355,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/pigeio/DSA/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/pigeio/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/pigeio/DSA/tree/master/0232-implement-queue-using-stacks) |
+| [0295-find-median-from-data-stream](https://github.com/pigeio/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0355-design-twitter](https://github.com/pigeio/DSA/tree/master/0355-design-twitter) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/pigeio/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0816-design-hashset](https://github.com/pigeio/DSA/tree/master/0816-design-hashset) |
@@ -407,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/pigeio/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/pigeio/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0937-online-stock-span](https://github.com/pigeio/DSA/tree/master/0937-online-stock-span) |
 ## Prefix Sum
