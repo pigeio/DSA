@@ -1,23 +1,15 @@
 class Solution {
 public:
-    const int M = 1e9+7;
-    long long pow(long long a , long long b){
+    int M = 1e9 + 7;
+    int pow(long long a , long long b){
         if(b == 0) return 1;
-        // if b = even
-        long long half = pow(a , b/2);
-        long long result = (half * half) % M ;
 
-        if( b % 2 == 1){
-            result = (result * a) % M;
+        if(b % 2 == 0){
+            return (long long)pow((a*a) % M ,b/2 ) % M;
         }
-        return result;
+        return (long long)(a % M) * pow((a * a) % M ,( b-1)/2) % M;
     }
     int countGoodNumbers(long long n) {
-       long long even = (n+1)/2; // if n is even 
-       long long odd = n/2;      //if n is odd
-
-       long long result = pow(5 , even) * pow(4 , odd) % M;
-       return result;
-
+        return(long long) pow(5 , (n+1)/2) * pow(4,  n/2) % M;
     }
 };
