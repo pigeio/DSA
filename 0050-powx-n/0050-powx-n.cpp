@@ -1,17 +1,21 @@
 class Solution {
 public:
-    double solve(double y , long m){
-        if(m == 0) return 1;
-        if(m < 0){
-            return solve(1/y,-m);
-        }else if(m%2 == 0){
-            return solve(y*y, m/2);
+    double solve(double x , long long n){
+        if(n == 0) return 1;
+
+        if(n < 0){
+            return solve(1/x , -n);
         }
-        return y* solve(y*y , (m-1)/2);
+
+        if(n % 2 == 0){
+            return solve(x*x  , n/2);
+        }
+        return x *solve(x*x , (n-1)/2);
+        
         
     }
     double myPow(double x, int n) {
-       
-        return solve(x ,(long) n);
+        return solve(x, (long)n);
+        
     }
 };
