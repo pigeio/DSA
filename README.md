@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pigeio/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/pigeio/DSA/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/pigeio/DSA/tree/master/0022-generate-parentheses) |
 | [0127-word-ladder](https://github.com/pigeio/DSA/tree/master/0127-word-ladder) |
 | [0402-remove-k-digits](https://github.com/pigeio/DSA/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/pigeio/DSA/tree/master/0424-longest-repeating-character-replacement) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/pigeio/DSA/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/pigeio/DSA/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/pigeio/DSA/tree/master/0085-maximal-rectangle) |
 | [0322-coin-change](https://github.com/pigeio/DSA/tree/master/0322-coin-change) |
@@ -451,4 +453,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/pigeio/DSA/tree/master/0347-top-k-frequent-elements) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/pigeio/DSA/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
