@@ -12,7 +12,9 @@ public:
         
         if(s+candidates[i] <= tar){
         ds.push_back(candidates[i]);
-        rocket(i ,candidates ,tar ,s + candidates[i], ds,  N);
+        s += candidates[i];
+        rocket(i ,candidates ,tar ,s, ds,  N);
+        s -= candidates[i];
         ds.pop_back();
         }
         rocket(i+1 ,candidates , tar,s , ds ,N);
