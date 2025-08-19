@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/pigeio/DSA/tree/master/0260-single-number-iii) |
 | [0322-coin-change](https://github.com/pigeio/DSA/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/pigeio/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0435-non-overlapping-intervals](https://github.com/pigeio/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/pigeio/DSA/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/pigeio/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/pigeio/DSA/tree/master/0503-next-greater-element-ii) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/pigeio/DSA/tree/master/0085-maximal-rectangle) |
 | [0322-coin-change](https://github.com/pigeio/DSA/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/pigeio/DSA/tree/master/0338-counting-bits) |
+| [0435-non-overlapping-intervals](https://github.com/pigeio/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/pigeio/DSA/tree/master/0542-01-matrix) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/pigeio/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0943-sum-of-subarray-minimums](https://github.com/pigeio/DSA/tree/master/0943-sum-of-subarray-minimums) |
@@ -359,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/pigeio/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/pigeio/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/pigeio/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0435-non-overlapping-intervals](https://github.com/pigeio/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/pigeio/DSA/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/pigeio/DSA/tree/master/0621-task-scheduler) |
 | [0876-hand-of-straights](https://github.com/pigeio/DSA/tree/master/0876-hand-of-straights) |
@@ -426,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/pigeio/DSA/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/pigeio/DSA/tree/master/0402-remove-k-digits) |
+| [0435-non-overlapping-intervals](https://github.com/pigeio/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/pigeio/DSA/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/pigeio/DSA/tree/master/0621-task-scheduler) |
 | [0876-hand-of-straights](https://github.com/pigeio/DSA/tree/master/0876-hand-of-straights) |
