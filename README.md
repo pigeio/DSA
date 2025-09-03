@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/pigeio/DSA/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/pigeio/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/pigeio/DSA/tree/master/2384-root-equals-sum-of-children) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/pigeio/DSA/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1442-number-of-operations-to-make-network-connected](https://github.com/pigeio/DSA/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1753-path-with-minimum-effort](https://github.com/pigeio/DSA/tree/master/1753-path-with-minimum-effort) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/pigeio/DSA/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/pigeio/DSA/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2793-count-the-number-of-complete-components](https://github.com/pigeio/DSA/tree/master/2793-count-the-number-of-complete-components) |
 ## Binary Search Tree
 |  |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/pigeio/DSA/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/pigeio/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/pigeio/DSA/tree/master/2384-root-equals-sum-of-children) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/pigeio/DSA/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -226,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1442-number-of-operations-to-make-network-connected](https://github.com/pigeio/DSA/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1753-path-with-minimum-effort](https://github.com/pigeio/DSA/tree/master/1753-path-with-minimum-effort) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/pigeio/DSA/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/pigeio/DSA/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2793-count-the-number-of-complete-components](https://github.com/pigeio/DSA/tree/master/2793-count-the-number-of-complete-components) |
 ## Union Find
 |  |
@@ -374,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/pigeio/DSA/tree/master/1256-rank-transform-of-an-array) |
 | [1370-count-number-of-nice-subarrays](https://github.com/pigeio/DSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/pigeio/DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/pigeio/DSA/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Stack
 |  |
 | ------- |
