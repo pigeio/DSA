@@ -313,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/pigeio/DSA/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/pigeio/DSA/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/pigeio/DSA/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/pigeio/DSA/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/pigeio/DSA/tree/master/0085-maximal-rectangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/pigeio/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0322-coin-change](https://github.com/pigeio/DSA/tree/master/0322-coin-change) |
@@ -415,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/pigeio/DSA/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/pigeio/DSA/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/pigeio/DSA/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/pigeio/DSA/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/pigeio/DSA/tree/master/0231-power-of-two) |
 | [0445-add-two-numbers-ii](https://github.com/pigeio/DSA/tree/master/0445-add-two-numbers-ii) |
@@ -424,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/pigeio/DSA/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/pigeio/DSA/tree/master/1013-fibonacci-number) |
 ## Sorting
 |  |
