@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/pigeio/DSA/tree/master/0260-single-number-iii) |
 | [0322-coin-change](https://github.com/pigeio/DSA/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/pigeio/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0403-frog-jump](https://github.com/pigeio/DSA/tree/master/0403-frog-jump) |
 | [0435-non-overlapping-intervals](https://github.com/pigeio/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/pigeio/DSA/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/pigeio/DSA/tree/master/0496-next-greater-element-i) |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/pigeio/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0322-coin-change](https://github.com/pigeio/DSA/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/pigeio/DSA/tree/master/0338-counting-bits) |
+| [0403-frog-jump](https://github.com/pigeio/DSA/tree/master/0403-frog-jump) |
 | [0435-non-overlapping-intervals](https://github.com/pigeio/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/pigeio/DSA/tree/master/0542-01-matrix) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/pigeio/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
