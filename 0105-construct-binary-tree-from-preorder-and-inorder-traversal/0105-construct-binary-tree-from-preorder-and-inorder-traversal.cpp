@@ -15,12 +15,13 @@ public:
         if(start > end)return NULL;
 
         int rootVal = preorder[idx];
+        idx++;
         int i = start;
 
         for(; i<= end; i++){
             if(inorder[i] == rootVal) break;
         }
-        idx++;
+        
         TreeNode* root = new TreeNode(rootVal);
         root->left = solve(preorder , inorder , start , i-1 ,idx);
         root->right = solve(preorder , inorder , i+1 , end ,idx);
