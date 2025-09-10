@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1646-kth-missing-positive-number](https://github.com/pigeio/DSA/tree/master/1646-kth-missing-positive-number) |
 | [1706-min-cost-to-connect-all-points](https://github.com/pigeio/DSA/tree/master/1706-min-cost-to-connect-all-points) |
 | [1753-path-with-minimum-effort](https://github.com/pigeio/DSA/tree/master/1753-path-with-minimum-effort) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/pigeio/DSA/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2227-sum-of-subarray-ranges](https://github.com/pigeio/DSA/tree/master/2227-sum-of-subarray-ranges) |
 ## Binary Search
 |  |
@@ -405,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/pigeio/DSA/tree/master/1256-rank-transform-of-an-array) |
 | [1370-count-number-of-nice-subarrays](https://github.com/pigeio/DSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/pigeio/DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/pigeio/DSA/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/pigeio/DSA/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Stack
 |  |
@@ -538,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/pigeio/DSA/tree/master/0621-task-scheduler) |
 | [0876-hand-of-straights](https://github.com/pigeio/DSA/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/pigeio/DSA/tree/master/0890-lemonade-change) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/pigeio/DSA/tree/master/1834-minimum-number-of-people-to-teach) |
 ## Sliding Window
 |  |
 | ------- |
