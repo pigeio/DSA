@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1706-min-cost-to-connect-all-points](https://github.com/pigeio/DSA/tree/master/1706-min-cost-to-connect-all-points) |
 | [1753-path-with-minimum-effort](https://github.com/pigeio/DSA/tree/master/1753-path-with-minimum-effort) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/pigeio/DSA/tree/master/1834-minimum-number-of-people-to-teach) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/pigeio/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2227-sum-of-subarray-ranges](https://github.com/pigeio/DSA/tree/master/2227-sum-of-subarray-ranges) |
 ## Binary Search
 |  |
