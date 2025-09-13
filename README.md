@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/pigeio/DSA/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/pigeio/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/pigeio/DSA/tree/master/0162-find-peak-element) |
+| [0189-rotate-array](https://github.com/pigeio/DSA/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/pigeio/DSA/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/pigeio/DSA/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/pigeio/DSA/tree/master/0213-house-robber-ii) |
@@ -381,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/pigeio/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/pigeio/DSA/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/pigeio/DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [0189-rotate-array](https://github.com/pigeio/DSA/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/pigeio/DSA/tree/master/0234-palindrome-linked-list) |
 | [0295-find-median-from-data-stream](https://github.com/pigeio/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/pigeio/DSA/tree/master/0455-assign-cookies) |
@@ -454,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/pigeio/DSA/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/pigeio/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/pigeio/DSA/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/pigeio/DSA/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/pigeio/DSA/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/pigeio/DSA/tree/master/0231-power-of-two) |
 | [0445-add-two-numbers-ii](https://github.com/pigeio/DSA/tree/master/0445-add-two-numbers-ii) |
