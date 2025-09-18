@@ -333,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-kth-largest-element-in-a-stream](https://github.com/pigeio/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/pigeio/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1753-path-with-minimum-effort](https://github.com/pigeio/DSA/tree/master/1753-path-with-minimum-effort) |
+| [3678-design-task-manager](https://github.com/pigeio/DSA/tree/master/3678-design-task-manager) |
 ## Shortest Path
 |  |
 | ------- |
@@ -436,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/pigeio/DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/pigeio/DSA/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/pigeio/DSA/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
+| [3678-design-task-manager](https://github.com/pigeio/DSA/tree/master/3678-design-task-manager) |
 ## Stack
 |  |
 | ------- |
@@ -542,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-kth-largest-element-in-a-stream](https://github.com/pigeio/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0816-design-hashset](https://github.com/pigeio/DSA/tree/master/0816-design-hashset) |
 | [0937-online-stock-span](https://github.com/pigeio/DSA/tree/master/0937-online-stock-span) |
+| [3678-design-task-manager](https://github.com/pigeio/DSA/tree/master/3678-design-task-manager) |
 ## Queue
 |  |
 | ------- |
@@ -644,4 +647,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/pigeio/DSA/tree/master/0062-unique-paths) |
+## Ordered Set
+|  |
+| ------- |
+| [3678-design-task-manager](https://github.com/pigeio/DSA/tree/master/3678-design-task-manager) |
 <!---LeetCode Topics End-->
