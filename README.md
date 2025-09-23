@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/pigeio/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2227-sum-of-subarray-ranges](https://github.com/pigeio/DSA/tree/master/2227-sum-of-subarray-ranges) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/pigeio/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/pigeio/DSA/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3797-design-spreadsheet](https://github.com/pigeio/DSA/tree/master/3797-design-spreadsheet) |
 ## Binary Search
 |  |
@@ -446,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/pigeio/DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/pigeio/DSA/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/pigeio/DSA/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/pigeio/DSA/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3678-design-task-manager](https://github.com/pigeio/DSA/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/pigeio/DSA/tree/master/3797-design-spreadsheet) |
 ## Stack
@@ -628,6 +630,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/pigeio/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/pigeio/DSA/tree/master/0621-task-scheduler) |
 | [1034-subarrays-with-k-different-integers](https://github.com/pigeio/DSA/tree/master/1034-subarrays-with-k-different-integers) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/pigeio/DSA/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Quickselect
 |  |
 | ------- |
