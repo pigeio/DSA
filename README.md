@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/pigeio/DSA/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/pigeio/DSA/tree/master/0792-binary-search) |
 | [0816-design-hashset](https://github.com/pigeio/DSA/tree/master/0816-design-hashset) |
+| [0830-largest-triangle-area](https://github.com/pigeio/DSA/tree/master/0830-largest-triangle-area) |
 | [0876-hand-of-straights](https://github.com/pigeio/DSA/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/pigeio/DSA/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/pigeio/DSA/tree/master/0907-koko-eating-bananas) |
@@ -506,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/pigeio/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/pigeio/DSA/tree/master/0268-missing-number) |
 | [0445-add-two-numbers-ii](https://github.com/pigeio/DSA/tree/master/0445-add-two-numbers-ii) |
+| [0830-largest-triangle-area](https://github.com/pigeio/DSA/tree/master/0830-largest-triangle-area) |
 | [1013-fibonacci-number](https://github.com/pigeio/DSA/tree/master/1013-fibonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/pigeio/DSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [2050-count-good-numbers](https://github.com/pigeio/DSA/tree/master/2050-count-good-numbers) |
@@ -682,4 +684,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3678-design-task-manager](https://github.com/pigeio/DSA/tree/master/3678-design-task-manager) |
+## Geometry
+|  |
+| ------- |
+| [0830-largest-triangle-area](https://github.com/pigeio/DSA/tree/master/0830-largest-triangle-area) |
 <!---LeetCode Topics End-->
