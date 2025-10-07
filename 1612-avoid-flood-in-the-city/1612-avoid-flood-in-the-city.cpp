@@ -13,7 +13,7 @@ public:
                 ans[i] = -1;
             
             if(mp.count(rains[i])){
-                auto it = st.upper_bound(mp[rains[i]]);
+                auto it = st.lower_bound(mp[rains[i]]);
                 if(it == st.end()){
                     return {};
                 }
