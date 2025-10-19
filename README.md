@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/pigeio/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/pigeio/DSA/tree/master/1073-number-of-enclaves) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/pigeio/DSA/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/pigeio/DSA/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1753-path-with-minimum-effort](https://github.com/pigeio/DSA/tree/master/1753-path-with-minimum-effort) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/pigeio/DSA/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/pigeio/DSA/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1073-number-of-enclaves](https://github.com/pigeio/DSA/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/pigeio/DSA/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/pigeio/DSA/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/pigeio/DSA/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1753-path-with-minimum-effort](https://github.com/pigeio/DSA/tree/master/1753-path-with-minimum-effort) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/pigeio/DSA/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/pigeio/DSA/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
@@ -355,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1264-maximum-number-of-words-you-can-type](https://github.com/pigeio/DSA/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/pigeio/DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/pigeio/DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/pigeio/DSA/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [3797-design-spreadsheet](https://github.com/pigeio/DSA/tree/master/3797-design-spreadsheet) |
 ## Heap (Priority Queue)
 |  |
@@ -598,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/pigeio/DSA/tree/master/0204-count-primes) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/pigeio/DSA/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 ## Number Theory
 |  |
 | ------- |
