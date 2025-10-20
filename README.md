@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-path-with-minimum-effort](https://github.com/pigeio/DSA/tree/master/1753-path-with-minimum-effort) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/pigeio/DSA/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/pigeio/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/pigeio/DSA/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2227-sum-of-subarray-ranges](https://github.com/pigeio/DSA/tree/master/2227-sum-of-subarray-ranges) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/pigeio/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/pigeio/DSA/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/pigeio/DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/pigeio/DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/pigeio/DSA/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/pigeio/DSA/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3797-design-spreadsheet](https://github.com/pigeio/DSA/tree/master/3797-design-spreadsheet) |
 ## Heap (Priority Queue)
 |  |
@@ -642,6 +644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/pigeio/DSA/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/pigeio/DSA/tree/master/0735-asteroid-collision) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/pigeio/DSA/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/pigeio/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/pigeio/DSA/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3336-water-bottles-ii](https://github.com/pigeio/DSA/tree/master/3336-water-bottles-ii) |
