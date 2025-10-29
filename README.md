@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/pigeio/DSA/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/pigeio/DSA/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/pigeio/DSA/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/pigeio/DSA/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/pigeio/DSA/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3797-design-spreadsheet](https://github.com/pigeio/DSA/tree/master/3797-design-spreadsheet) |
 ## Binary Search
@@ -648,6 +649,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/pigeio/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/pigeio/DSA/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3336-water-bottles-ii](https://github.com/pigeio/DSA/tree/master/3336-water-bottles-ii) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/pigeio/DSA/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Greedy
 |  |
 | ------- |
@@ -696,6 +698,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/pigeio/DSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/pigeio/DSA/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/pigeio/DSA/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/pigeio/DSA/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Counting
 |  |
 | ------- |
