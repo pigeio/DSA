@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1612-avoid-flood-in-the-city](https://github.com/pigeio/DSA/tree/master/1612-avoid-flood-in-the-city) |
 | [1646-kth-missing-positive-number](https://github.com/pigeio/DSA/tree/master/1646-kth-missing-positive-number) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/pigeio/DSA/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/pigeio/DSA/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1706-min-cost-to-connect-all-points](https://github.com/pigeio/DSA/tree/master/1706-min-cost-to-connect-all-points) |
 | [1753-path-with-minimum-effort](https://github.com/pigeio/DSA/tree/master/1753-path-with-minimum-effort) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/pigeio/DSA/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1264-maximum-number-of-words-you-can-type](https://github.com/pigeio/DSA/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/pigeio/DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/pigeio/DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/pigeio/DSA/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/pigeio/DSA/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/pigeio/DSA/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3797-design-spreadsheet](https://github.com/pigeio/DSA/tree/master/3797-design-spreadsheet) |
@@ -422,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/pigeio/DSA/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1559-cherry-pickup-ii](https://github.com/pigeio/DSA/tree/master/1559-cherry-pickup-ii) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/pigeio/DSA/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/pigeio/DSA/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/pigeio/DSA/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/pigeio/DSA/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Linked List
@@ -672,6 +675,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-hand-of-straights](https://github.com/pigeio/DSA/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/pigeio/DSA/tree/master/0890-lemonade-change) |
 | [1612-avoid-flood-in-the-city](https://github.com/pigeio/DSA/tree/master/1612-avoid-flood-in-the-city) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/pigeio/DSA/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/pigeio/DSA/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/pigeio/DSA/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/pigeio/DSA/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
