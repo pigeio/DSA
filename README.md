@@ -371,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/pigeio/DSA/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/pigeio/DSA/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/pigeio/DSA/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/pigeio/DSA/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3797-design-spreadsheet](https://github.com/pigeio/DSA/tree/master/3797-design-spreadsheet) |
 ## Heap (Priority Queue)
 |  |
@@ -689,6 +690,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1834-minimum-number-of-people-to-teach](https://github.com/pigeio/DSA/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/pigeio/DSA/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/pigeio/DSA/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/pigeio/DSA/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Sliding Window
 |  |
 | ------- |
@@ -733,6 +735,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1034-subarrays-with-k-different-integers](https://github.com/pigeio/DSA/tree/master/1034-subarrays-with-k-different-integers) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/pigeio/DSA/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/pigeio/DSA/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/pigeio/DSA/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Quickselect
 |  |
 | ------- |
