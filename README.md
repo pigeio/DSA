@@ -367,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/pigeio/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/pigeio/DSA/tree/master/0583-delete-operation-for-two-strings) |
 | [1032-satisfiability-of-equality-equations](https://github.com/pigeio/DSA/tree/master/1032-satisfiability-of-equality-equations) |
+| [1170-shortest-common-supersequence](https://github.com/pigeio/DSA/tree/master/1170-shortest-common-supersequence) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/pigeio/DSA/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/pigeio/DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/pigeio/DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -434,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0943-sum-of-subarray-minimums](https://github.com/pigeio/DSA/tree/master/0943-sum-of-subarray-minimums) |
 | [1013-fibonacci-number](https://github.com/pigeio/DSA/tree/master/1013-fibonacci-number) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/pigeio/DSA/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [1170-shortest-common-supersequence](https://github.com/pigeio/DSA/tree/master/1170-shortest-common-supersequence) |
 | [1559-cherry-pickup-ii](https://github.com/pigeio/DSA/tree/master/1559-cherry-pickup-ii) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/pigeio/DSA/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/pigeio/DSA/tree/master/1700-minimum-time-to-make-rope-colorful) |
